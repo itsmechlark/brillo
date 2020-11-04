@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bessey/brillo.svg?branch=master)](https://travis-ci.org/bessey/brillo)
+![Test](https://github.com/itsmechlark/brillo/workflows/Test/badge.svg)
 [![Gem Version](https://badge.fury.io/rb/brillo.svg)](https://badge.fury.io/rb/brillo)
 
 # Brillo
